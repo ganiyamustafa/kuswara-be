@@ -1,0 +1,9 @@
+import module.user.models
+import module.artist.models
+import module.authentication.models
+import module.song.models
+import module.playlist.models
+import module.song_artist.models
+import module.song_playlist.models
+import module.user_character.models
+import module.user_character_skill.models
