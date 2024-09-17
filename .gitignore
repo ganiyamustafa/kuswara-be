@@ -155,6 +155,7 @@ dmypy.json
 cython_debug/
 static/
 kuswara-fc874-firebase-adminsdk-2oc6y-900cb91c93.json
+kuswara-be-venv/
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
